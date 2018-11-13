@@ -1,0 +1,9 @@
+D:\Work\C\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe.config
+D:\Work\C\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe
+D:\Work\C\PictureViewer\PictureViewer\bin\Release\PictureViewer.pdb
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.Form1.resources
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.cache
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.exe
+D:\Work\C\PictureViewer\PictureViewer\obj\Release\PictureViewer.pdb
